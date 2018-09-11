@@ -1,3 +1,5 @@
 Hello Strange. I'm from local!!!
 1. New line Local
-2. Modified more
+1.b Test git diff
+2. Modified {Test git diff} more
+3. Test git diff
