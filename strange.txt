@@ -3,3 +3,4 @@ Hello Strange. I'm from local!!!
 1.b Test git diff
 2. Modified {Test git diff} more
 3. Test git diff
+4. Git commit without git add!!!
