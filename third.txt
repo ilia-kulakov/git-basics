@@ -1,3 +1,4 @@
 1. Insert a line before remove this file!!! LOCAL
 2. Принудительное удаление измененного и проиндексированного  файла
 3. I am unvisible
+4. Testing get commit --amend

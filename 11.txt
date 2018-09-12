@@ -1,2 +1,3 @@
 Hello World!!! Local
 1. Test git commit without git add
+2. Test amend
