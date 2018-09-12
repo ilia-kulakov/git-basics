@@ -1,0 +1,2 @@
+Hello World!!! Local
+1. Test git commit without git add
