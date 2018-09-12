@@ -1,0 +1,2 @@
+1. Insert a line before remove this file!!! LOCAL
+2. Принудительное удаление измененного и проиндексированного  файла
